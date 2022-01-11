@@ -32,8 +32,7 @@ Sou estudante de Engenharia de Computação na faculdade UTFPR e estagiária na 
 <div>
   
   <a href="https://github.com/eduarda-rocha">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=eduarda-rocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-rocha&layout=compact&langs_count=9&theme=dracula"/>
+  <img width="100%" height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-rocha&layout=compact&langs_count=9&theme=dracula"/>
     
 </div>
 
