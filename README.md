@@ -35,6 +35,11 @@ Sou estudante de Engenharia de Computação na faculdade UTFPR e estagiária na 
   <img width="100%" height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-rocha&layout=compact&langs_count=9&theme=dracula"/>
     
 </div>
+  
+  <div>
+    <a href="https://github.com/eduarda-rocha" alt="link to Barbara's github page" >
+  <img alt="Barbara's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-rocha&theme=midnight-purple&hide_langs_below=1" />
+</a>
 
 ![Snake animation](https://github.com/eduarda-rocha/eduarda-rocha/blob/output/github-contribution-grid-snake.svg)
 
