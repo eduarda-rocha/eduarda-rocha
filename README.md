@@ -1,6 +1,6 @@
 ## Oii 👋 Eu sou a Bárbara Rocha 
 
-Sou estudante de Engenharia de Computação na faculdade UTFPR e estagiária na área de Desenvolvimento Web e atualmente me empenhando na área de Data Science
+Sou estudante de Engenharia de Computação na faculdade UTFPR, estagiária na área de Desenvolvimento Web e atualmente me empenhando na área de Data Science
 
 ## 📌 Conecte comigo
 
